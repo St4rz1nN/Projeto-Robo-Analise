@@ -1,0 +1,3449 @@
+Inicializando o Programa: 2024-12-03 02:45:04...
+Resultado: 2024-12-03 02:45:38
+Quantidade de Crash: 1
+Quantidade máxima de cinzas seguidos registrados: 0
+Quantidade de Verdes: 1
+Quantidade de Cinzas: 0
+Quantidade Acima/Igual a 10: 0
+Quantidade máxima até chegar a 10: 0
+Banca Atual: 200.0...
+Resultado: 2024-12-03 02:45:51
+Quantidade de Crash: 2
+Quantidade máxima de cinzas seguidos registrados: 0
+Quantidade de Verdes: 1
+Quantidade de Cinzas: 1
+Quantidade Acima/Igual a 10: 0
+Quantidade máxima até chegar a 10: 0
+Banca Atual: 199.8...
+Resultado: 2024-12-03 02:46:21
+Quantidade de Crash: 3
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 2
+Quantidade de Cinzas: 1
+Quantidade Acima/Igual a 10: 0
+Quantidade máxima até chegar a 10: 0
+Banca Atual: 199.60000000000002...
+Resultado: 2024-12-03 02:46:39
+Quantidade de Crash: 4
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 2
+Quantidade de Cinzas: 2
+Quantidade Acima/Igual a 10: 0
+Quantidade máxima até chegar a 10: 0
+Banca Atual: 199.40000000000003...
+Resultado: 2024-12-03 02:47:40
+Quantidade de Crash: 5
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 3
+Quantidade de Cinzas: 2
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 201.20000000000005...
+Resultado: 2024-12-03 02:48:27
+Quantidade de Crash: 6
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 4
+Quantidade de Cinzas: 2
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 201.00000000000006...
+Resultado: 2024-12-03 02:48:54
+Quantidade de Crash: 7
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 5
+Quantidade de Cinzas: 2
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 200.80000000000007...
+Resultado: 2024-12-03 02:49:16
+Quantidade de Crash: 8
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 6
+Quantidade de Cinzas: 2
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 200.60000000000008...
+Resultado: 2024-12-03 02:49:26
+Quantidade de Crash: 9
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 6
+Quantidade de Cinzas: 3
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 200.4000000000001...
+Resultado: 2024-12-03 02:50:00
+Quantidade de Crash: 10
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 7
+Quantidade de Cinzas: 3
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 200.2000000000001...
+Resultado: 2024-12-03 02:50:19
+Quantidade de Crash: 11
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 7
+Quantidade de Cinzas: 4
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 200.0000000000001...
+Resultado: 2024-12-03 02:50:29
+Quantidade de Crash: 12
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 7
+Quantidade de Cinzas: 5
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 199.80000000000013...
+Resultado: 2024-12-03 02:50:50
+Quantidade de Crash: 13
+Quantidade máxima de cinzas seguidos registrados: 1
+Quantidade de Verdes: 7
+Quantidade de Cinzas: 6
+Quantidade Acima/Igual a 10: 1
+Quantidade máxima até chegar a 10: 4
+Banca Atual: 199.60000000000014...
+Resultado: 2024-12-03 02:51:55
+Quantidade de Crash: 14
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 8
+Quantidade de Cinzas: 6
+Quantidade Acima/Igual a 10: 2
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.40000000000015...
+Resultado: 2024-12-03 02:52:50
+Quantidade de Crash: 15
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 9
+Quantidade de Cinzas: 6
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 203.20000000000016...
+Resultado: 2024-12-03 02:53:23
+Quantidade de Crash: 16
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 10
+Quantidade de Cinzas: 6
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 203.00000000000017...
+Resultado: 2024-12-03 02:53:44
+Quantidade de Crash: 17
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 10
+Quantidade de Cinzas: 7
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 202.80000000000018...
+Resultado: 2024-12-03 02:54:09
+Quantidade de Crash: 18
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 11
+Quantidade de Cinzas: 7
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 202.6000000000002...
+Resultado: 2024-12-03 02:54:36
+Quantidade de Crash: 19
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 12
+Quantidade de Cinzas: 7
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 202.4000000000002...
+Resultado: 2024-12-03 02:54:59
+Quantidade de Crash: 20
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 7
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 202.20000000000022...
+Resultado: 2024-12-03 02:55:16
+Quantidade de Crash: 21
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 8
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 202.00000000000023...
+Resultado: 2024-12-03 02:55:26
+Quantidade de Crash: 22
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 9
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.80000000000024...
+Resultado: 2024-12-03 02:55:44
+Quantidade de Crash: 23
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 10
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.60000000000025...
+Resultado: 2024-12-03 02:55:56
+Quantidade de Crash: 24
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 11
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.40000000000026...
+Resultado: 2024-12-03 02:56:06
+Quantidade de Crash: 25
+Quantidade máxima de cinzas seguidos registrados: 3
+Quantidade de Verdes: 13
+Quantidade de Cinzas: 12
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.20000000000027...
+Resultado: 2024-12-03 02:56:29
+Quantidade de Crash: 26
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 14
+Quantidade de Cinzas: 12
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 201.00000000000028...
+Resultado: 2024-12-03 02:56:41
+Quantidade de Crash: 27
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 14
+Quantidade de Cinzas: 13
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 200.8000000000003...
+Resultado: 2024-12-03 02:56:54
+Quantidade de Crash: 28
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 14
+Quantidade de Cinzas: 14
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 200.6000000000003...
+Resultado: 2024-12-03 02:57:16
+Quantidade de Crash: 29
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 15
+Quantidade de Cinzas: 14
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 200.40000000000032...
+Resultado: 2024-12-03 02:57:42
+Quantidade de Crash: 30
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 16
+Quantidade de Cinzas: 14
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 200.20000000000033...
+Resultado: 2024-12-03 02:58:04
+Quantidade de Crash: 31
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 17
+Quantidade de Cinzas: 14
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 200.00000000000034...
+Resultado: 2024-12-03 02:58:24
+Quantidade de Crash: 32
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 17
+Quantidade de Cinzas: 15
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 199.80000000000035...
+Resultado: 2024-12-03 02:58:41
+Quantidade de Crash: 33
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 17
+Quantidade de Cinzas: 16
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 199.60000000000036...
+Resultado: 2024-12-03 02:59:06
+Quantidade de Crash: 34
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 18
+Quantidade de Cinzas: 16
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 199.40000000000038...
+Resultado: 2024-12-03 02:59:33
+Quantidade de Crash: 35
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 19
+Quantidade de Cinzas: 16
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 199.2000000000004...
+Resultado: 2024-12-03 03:00:11
+Quantidade de Crash: 36
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 20
+Quantidade de Cinzas: 16
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 199.0000000000004...
+Resultado: 2024-12-03 03:00:44
+Quantidade de Crash: 37
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 21
+Quantidade de Cinzas: 16
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 198.8000000000004...
+Resultado: 2024-12-03 03:00:59
+Quantidade de Crash: 38
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 21
+Quantidade de Cinzas: 17
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 198.60000000000042...
+Resultado: 2024-12-03 03:01:09
+Quantidade de Crash: 39
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 21
+Quantidade de Cinzas: 18
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 198.40000000000043...
+Resultado: 2024-12-03 03:01:39
+Quantidade de Crash: 40
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 22
+Quantidade de Cinzas: 18
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 198.20000000000044...
+Resultado: 2024-12-03 03:02:02
+Quantidade de Crash: 41
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 23
+Quantidade de Cinzas: 18
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 198.00000000000045...
+Resultado: 2024-12-03 03:02:38
+Quantidade de Crash: 42
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 24
+Quantidade de Cinzas: 18
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 197.80000000000047...
+Resultado: 2024-12-03 03:02:55
+Quantidade de Crash: 43
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 24
+Quantidade de Cinzas: 19
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 197.60000000000048...
+Resultado: 2024-12-03 03:03:12
+Quantidade de Crash: 44
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 24
+Quantidade de Cinzas: 20
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 197.4000000000005...
+Resultado: 2024-12-03 03:03:22
+Quantidade de Crash: 45
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 24
+Quantidade de Cinzas: 21
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 197.2000000000005...
+Resultado: 2024-12-03 03:03:54
+Quantidade de Crash: 46
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 25
+Quantidade de Cinzas: 21
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 197.0000000000005...
+Resultado: 2024-12-03 03:04:06
+Quantidade de Crash: 47
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 25
+Quantidade de Cinzas: 22
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 196.80000000000052...
+Resultado: 2024-12-03 03:04:23
+Quantidade de Crash: 48
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 25
+Quantidade de Cinzas: 23
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 196.60000000000053...
+Resultado: 2024-12-03 03:04:35
+Quantidade de Crash: 49
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 25
+Quantidade de Cinzas: 24
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 196.40000000000055...
+Resultado: 2024-12-03 03:05:12
+Quantidade de Crash: 50
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 26
+Quantidade de Cinzas: 24
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 196.20000000000056...
+Resultado: 2024-12-03 03:05:23
+Quantidade de Crash: 51
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 26
+Quantidade de Cinzas: 25
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 196.00000000000057...
+Resultado: 2024-12-03 03:05:52
+Quantidade de Crash: 52
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 27
+Quantidade de Cinzas: 25
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 195.80000000000058...
+Resultado: 2024-12-03 03:06:02
+Quantidade de Crash: 53
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 27
+Quantidade de Cinzas: 26
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 195.6000000000006...
+Resultado: 2024-12-03 03:06:12
+Quantidade de Crash: 54
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 27
+Quantidade de Cinzas: 27
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 195.4000000000006...
+Resultado: 2024-12-03 03:06:23
+Quantidade de Crash: 55
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 27
+Quantidade de Cinzas: 28
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 195.2000000000006...
+Resultado: 2024-12-03 03:06:50
+Quantidade de Crash: 56
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 28
+Quantidade de Cinzas: 28
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 195.00000000000063...
+Resultado: 2024-12-03 03:07:07
+Quantidade de Crash: 57
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 28
+Quantidade de Cinzas: 29
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 194.80000000000064...
+Resultado: 2024-12-03 03:07:52
+Quantidade de Crash: 58
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 29
+Quantidade de Cinzas: 29
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 194.60000000000065...
+Resultado: 2024-12-03 03:08:04
+Quantidade de Crash: 59
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 29
+Quantidade de Cinzas: 30
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 194.40000000000066...
+Resultado: 2024-12-03 03:08:26
+Quantidade de Crash: 60
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 29
+Quantidade de Cinzas: 31
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 194.20000000000067...
+Resultado: 2024-12-03 03:09:08
+Quantidade de Crash: 61
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 30
+Quantidade de Cinzas: 31
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 194.00000000000068...
+Resultado: 2024-12-03 03:09:34
+Quantidade de Crash: 62
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 31
+Quantidade de Cinzas: 31
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 193.8000000000007...
+Resultado: 2024-12-03 03:10:18
+Quantidade de Crash: 63
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 32
+Quantidade de Cinzas: 31
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 193.6000000000007...
+Resultado: 2024-12-03 03:11:01
+Quantidade de Crash: 64
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 33
+Quantidade de Cinzas: 31
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 193.40000000000072...
+Resultado: 2024-12-03 03:11:11
+Quantidade de Crash: 65
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 33
+Quantidade de Cinzas: 32
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 193.20000000000073...
+Resultado: 2024-12-03 03:11:56
+Quantidade de Crash: 66
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 34
+Quantidade de Cinzas: 32
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 193.00000000000074...
+Resultado: 2024-12-03 03:12:13
+Quantidade de Crash: 67
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 34
+Quantidade de Cinzas: 33
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 192.80000000000075...
+Resultado: 2024-12-03 03:12:23
+Quantidade de Crash: 68
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 34
+Quantidade de Cinzas: 34
+Quantidade Acima/Igual a 10: 3
+Quantidade máxima até chegar a 10: 8
+Banca Atual: 192.60000000000076...
+Resultado: 2024-12-03 03:14:25
+Quantidade de Crash: 69
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 35
+Quantidade de Cinzas: 34
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000077...
+Resultado: 2024-12-03 03:14:42
+Quantidade de Crash: 70
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 35
+Quantidade de Cinzas: 35
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000078...
+Resultado: 2024-12-03 03:15:14
+Quantidade de Crash: 71
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 36
+Quantidade de Cinzas: 35
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.0000000000008...
+Resultado: 2024-12-03 03:15:24
+Quantidade de Crash: 72
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 36
+Quantidade de Cinzas: 36
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.8000000000008...
+Resultado: 2024-12-03 03:15:58
+Quantidade de Crash: 73
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 37
+Quantidade de Cinzas: 36
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000082...
+Resultado: 2024-12-03 03:16:22
+Quantidade de Crash: 74
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 38
+Quantidade de Cinzas: 36
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000083...
+Resultado: 2024-12-03 03:16:40
+Quantidade de Crash: 75
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 38
+Quantidade de Cinzas: 37
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.20000000000084...
+Resultado: 2024-12-03 03:17:22
+Quantidade de Crash: 76
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 37
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.00000000000085...
+Resultado: 2024-12-03 03:17:37
+Quantidade de Crash: 77
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 38
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.80000000000086...
+Resultado: 2024-12-03 03:17:47
+Quantidade de Crash: 78
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 39
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.60000000000088...
+Resultado: 2024-12-03 03:18:01
+Quantidade de Crash: 79
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 40
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.4000000000009...
+Resultado: 2024-12-03 03:18:18
+Quantidade de Crash: 80
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 41
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.2000000000009...
+Resultado: 2024-12-03 03:18:36
+Quantidade de Crash: 81
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 42
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.0000000000009...
+Resultado: 2024-12-03 03:18:57
+Quantidade de Crash: 82
+Quantidade máxima de cinzas seguidos registrados: 5
+Quantidade de Verdes: 39
+Quantidade de Cinzas: 43
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.80000000000092...
+Resultado: 2024-12-03 03:19:24
+Quantidade de Crash: 83
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 40
+Quantidade de Cinzas: 43
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.60000000000093...
+Resultado: 2024-12-03 03:19:54
+Quantidade de Crash: 84
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 43
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.40000000000094...
+Resultado: 2024-12-03 03:20:04
+Quantidade de Crash: 85
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 44
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.20000000000095...
+Resultado: 2024-12-03 03:20:15
+Quantidade de Crash: 86
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 45
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.00000000000097...
+Resultado: 2024-12-03 03:20:29
+Quantidade de Crash: 87
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 46
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.80000000000098...
+Resultado: 2024-12-03 03:20:41
+Quantidade de Crash: 88
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 47
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.600000000001...
+Resultado: 2024-12-03 03:20:57
+Quantidade de Crash: 89
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 41
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.400000000001...
+Resultado: 2024-12-03 03:21:28
+Quantidade de Crash: 90
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 42
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.200000000001...
+Resultado: 2024-12-03 03:21:50
+Quantidade de Crash: 91
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 43
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000102...
+Resultado: 2024-12-03 03:22:28
+Quantidade de Crash: 92
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 44
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.80000000000103...
+Resultado: 2024-12-03 03:22:51
+Quantidade de Crash: 93
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 45
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.60000000000105...
+Resultado: 2024-12-03 03:23:21
+Quantidade de Crash: 94
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 46
+Quantidade de Cinzas: 48
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000106...
+Resultado: 2024-12-03 03:23:36
+Quantidade de Crash: 95
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 46
+Quantidade de Cinzas: 49
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.20000000000107...
+Resultado: 2024-12-03 03:23:59
+Quantidade de Crash: 96
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 47
+Quantidade de Cinzas: 49
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.00000000000108...
+Resultado: 2024-12-03 03:24:29
+Quantidade de Crash: 97
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 48
+Quantidade de Cinzas: 49
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.8000000000011...
+Resultado: 2024-12-03 03:25:04
+Quantidade de Crash: 98
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 49
+Quantidade de Cinzas: 49
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.6000000000011...
+Resultado: 2024-12-03 03:25:18
+Quantidade de Crash: 99
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 49
+Quantidade de Cinzas: 50
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.4000000000011...
+Resultado: 2024-12-03 03:25:34
+Quantidade de Crash: 100
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 49
+Quantidade de Cinzas: 51
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.20000000000113...
+Resultado: 2024-12-03 03:25:50
+Quantidade de Crash: 101
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 49
+Quantidade de Cinzas: 52
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.00000000000114...
+Resultado: 2024-12-03 03:26:08
+Quantidade de Crash: 102
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 49
+Quantidade de Cinzas: 53
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.80000000000115...
+Resultado: 2024-12-03 03:26:58
+Quantidade de Crash: 103
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 53
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.60000000000116...
+Resultado: 2024-12-03 03:27:17
+Quantidade de Crash: 104
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 54
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.40000000000117...
+Resultado: 2024-12-03 03:27:28
+Quantidade de Crash: 105
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 55
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.20000000000118...
+Resultado: 2024-12-03 03:27:43
+Quantidade de Crash: 106
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 56
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.0000000000012...
+Resultado: 2024-12-03 03:27:55
+Quantidade de Crash: 107
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 57
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.8000000000012...
+Resultado: 2024-12-03 03:28:14
+Quantidade de Crash: 108
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 50
+Quantidade de Cinzas: 58
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.60000000000122...
+Resultado: 2024-12-03 03:29:00
+Quantidade de Crash: 109
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 51
+Quantidade de Cinzas: 58
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.40000000000123...
+Resultado: 2024-12-03 03:29:11
+Quantidade de Crash: 110
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 51
+Quantidade de Cinzas: 59
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.20000000000124...
+Resultado: 2024-12-03 03:29:22
+Quantidade de Crash: 111
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 51
+Quantidade de Cinzas: 60
+Quantidade Acima/Igual a 10: 4
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.00000000000125...
+Resultado: 2024-12-03 03:30:15
+Quantidade de Crash: 112
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 52
+Quantidade de Cinzas: 60
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.80000000000126...
+Resultado: 2024-12-03 03:30:39
+Quantidade de Crash: 113
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 60
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.60000000000127...
+Resultado: 2024-12-03 03:30:59
+Quantidade de Crash: 114
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 61
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.40000000000128...
+Resultado: 2024-12-03 03:31:20
+Quantidade de Crash: 115
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 62
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.2000000000013...
+Resultado: 2024-12-03 03:31:31
+Quantidade de Crash: 116
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 63
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.0000000000013...
+Resultado: 2024-12-03 03:31:42
+Quantidade de Crash: 117
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 64
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.80000000000132...
+Resultado: 2024-12-03 03:32:00
+Quantidade de Crash: 118
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 53
+Quantidade de Cinzas: 65
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.60000000000133...
+Resultado: 2024-12-03 03:32:29
+Quantidade de Crash: 119
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 54
+Quantidade de Cinzas: 65
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.40000000000134...
+Resultado: 2024-12-03 03:33:14
+Quantidade de Crash: 120
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 55
+Quantidade de Cinzas: 65
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.20000000000135...
+Resultado: 2024-12-03 03:33:24
+Quantidade de Crash: 121
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 55
+Quantidade de Cinzas: 66
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.00000000000136...
+Resultado: 2024-12-03 03:33:50
+Quantidade de Crash: 122
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 56
+Quantidade de Cinzas: 66
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.80000000000138...
+Resultado: 2024-12-03 03:34:37
+Quantidade de Crash: 123
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 57
+Quantidade de Cinzas: 66
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.6000000000014...
+Resultado: 2024-12-03 03:34:53
+Quantidade de Crash: 124
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 57
+Quantidade de Cinzas: 67
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.4000000000014...
+Resultado: 2024-12-03 03:35:15
+Quantidade de Crash: 125
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 58
+Quantidade de Cinzas: 67
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.2000000000014...
+Resultado: 2024-12-03 03:35:57
+Quantidade de Crash: 126
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 59
+Quantidade de Cinzas: 67
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.00000000000142...
+Resultado: 2024-12-03 03:36:32
+Quantidade de Crash: 127
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 60
+Quantidade de Cinzas: 67
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.80000000000143...
+Resultado: 2024-12-03 03:37:05
+Quantidade de Crash: 128
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 61
+Quantidade de Cinzas: 67
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.60000000000144...
+Resultado: 2024-12-03 03:37:24
+Quantidade de Crash: 129
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 61
+Quantidade de Cinzas: 68
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.40000000000146...
+Resultado: 2024-12-03 03:37:47
+Quantidade de Crash: 130
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 62
+Quantidade de Cinzas: 68
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.20000000000147...
+Resultado: 2024-12-03 03:37:58
+Quantidade de Crash: 131
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 62
+Quantidade de Cinzas: 69
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.00000000000148...
+Resultado: 2024-12-03 03:38:10
+Quantidade de Crash: 132
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 62
+Quantidade de Cinzas: 70
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.8000000000015...
+Resultado: 2024-12-03 03:38:38
+Quantidade de Crash: 133
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 63
+Quantidade de Cinzas: 70
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.6000000000015...
+Resultado: 2024-12-03 03:38:51
+Quantidade de Crash: 134
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 63
+Quantidade de Cinzas: 71
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.4000000000015...
+Resultado: 2024-12-03 03:39:02
+Quantidade de Crash: 135
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 63
+Quantidade de Cinzas: 72
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.20000000000152...
+Resultado: 2024-12-03 03:39:12
+Quantidade de Crash: 136
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 63
+Quantidade de Cinzas: 73
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.00000000000153...
+Resultado: 2024-12-03 03:39:48
+Quantidade de Crash: 137
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 64
+Quantidade de Cinzas: 73
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.80000000000155...
+Resultado: 2024-12-03 03:40:05
+Quantidade de Crash: 138
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 64
+Quantidade de Cinzas: 74
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.60000000000156...
+Resultado: 2024-12-03 03:40:42
+Quantidade de Crash: 139
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 65
+Quantidade de Cinzas: 74
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.40000000000157...
+Resultado: 2024-12-03 03:41:04
+Quantidade de Crash: 140
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 66
+Quantidade de Cinzas: 74
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.20000000000158...
+Resultado: 2024-12-03 03:41:35
+Quantidade de Crash: 141
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 67
+Quantidade de Cinzas: 74
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.0000000000016...
+Resultado: 2024-12-03 03:41:51
+Quantidade de Crash: 142
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 67
+Quantidade de Cinzas: 75
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.8000000000016...
+Resultado: 2024-12-03 03:42:18
+Quantidade de Crash: 143
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 68
+Quantidade de Cinzas: 75
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.60000000000161...
+Resultado: 2024-12-03 03:42:28
+Quantidade de Crash: 144
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 68
+Quantidade de Cinzas: 76
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.40000000000163...
+Resultado: 2024-12-03 03:42:38
+Quantidade de Crash: 145
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 68
+Quantidade de Cinzas: 77
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.20000000000164...
+Resultado: 2024-12-03 03:43:09
+Quantidade de Crash: 146
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 69
+Quantidade de Cinzas: 77
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.00000000000165...
+Resultado: 2024-12-03 03:43:52
+Quantidade de Crash: 147
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 70
+Quantidade de Cinzas: 77
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 180.80000000000166...
+Resultado: 2024-12-03 03:44:12
+Quantidade de Crash: 148
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 70
+Quantidade de Cinzas: 78
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 180.60000000000167...
+Resultado: 2024-12-03 03:44:22
+Quantidade de Crash: 149
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 70
+Quantidade de Cinzas: 79
+Quantidade Acima/Igual a 10: 5
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 180.40000000000168...
+Resultado: 2024-12-03 03:45:33
+Quantidade de Crash: 150
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 71
+Quantidade de Cinzas: 79
+Quantidade Acima/Igual a 10: 6
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.2000000000017...
+Resultado: 2024-12-03 03:45:48
+Quantidade de Crash: 151
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 71
+Quantidade de Cinzas: 80
+Quantidade Acima/Igual a 10: 6
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.0000000000017...
+Resultado: 2024-12-03 03:46:16
+Quantidade de Crash: 152
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 72
+Quantidade de Cinzas: 80
+Quantidade Acima/Igual a 10: 6
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.80000000000172...
+Resultado: 2024-12-03 03:46:29
+Quantidade de Crash: 153
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 72
+Quantidade de Cinzas: 81
+Quantidade Acima/Igual a 10: 6
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.60000000000173...
+Resultado: 2024-12-03 03:46:39
+Quantidade de Crash: 154
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 72
+Quantidade de Cinzas: 82
+Quantidade Acima/Igual a 10: 6
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 181.40000000000174...
+Resultado: 2024-12-03 03:47:31
+Quantidade de Crash: 155
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 73
+Quantidade de Cinzas: 82
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.20000000000175...
+Resultado: 2024-12-03 03:47:43
+Quantidade de Crash: 156
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 73
+Quantidade de Cinzas: 83
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.00000000000176...
+Resultado: 2024-12-03 03:47:55
+Quantidade de Crash: 157
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 73
+Quantidade de Cinzas: 84
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.80000000000177...
+Resultado: 2024-12-03 03:48:11
+Quantidade de Crash: 158
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 73
+Quantidade de Cinzas: 85
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.60000000000178...
+Resultado: 2024-12-03 03:48:26
+Quantidade de Crash: 159
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 73
+Quantidade de Cinzas: 86
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.4000000000018...
+Resultado: 2024-12-03 03:48:57
+Quantidade de Crash: 160
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 74
+Quantidade de Cinzas: 86
+Quantidade Acima/Igual a 10: 7
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 182.2000000000018...
+Resultado: 2024-12-03 03:49:47
+Quantidade de Crash: 161
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 75
+Quantidade de Cinzas: 86
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.00000000000182...
+Resultado: 2024-12-03 03:50:10
+Quantidade de Crash: 162
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 76
+Quantidade de Cinzas: 86
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.80000000000183...
+Resultado: 2024-12-03 03:50:22
+Quantidade de Crash: 163
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 76
+Quantidade de Cinzas: 87
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.60000000000184...
+Resultado: 2024-12-03 03:50:36
+Quantidade de Crash: 164
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 76
+Quantidade de Cinzas: 88
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.40000000000185...
+Resultado: 2024-12-03 03:50:46
+Quantidade de Crash: 165
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 76
+Quantidade de Cinzas: 89
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.20000000000186...
+Resultado: 2024-12-03 03:51:01
+Quantidade de Crash: 166
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 76
+Quantidade de Cinzas: 90
+Quantidade Acima/Igual a 10: 8
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 183.00000000000188...
+Resultado: 2024-12-03 03:51:51
+Quantidade de Crash: 167
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 77
+Quantidade de Cinzas: 90
+Quantidade Acima/Igual a 10: 9
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.8000000000019...
+Resultado: 2024-12-03 03:52:18
+Quantidade de Crash: 168
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 78
+Quantidade de Cinzas: 90
+Quantidade Acima/Igual a 10: 9
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.6000000000019...
+Resultado: 2024-12-03 03:52:31
+Quantidade de Crash: 169
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 78
+Quantidade de Cinzas: 91
+Quantidade Acima/Igual a 10: 9
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.4000000000019...
+Resultado: 2024-12-03 03:52:52
+Quantidade de Crash: 170
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 78
+Quantidade de Cinzas: 92
+Quantidade Acima/Igual a 10: 9
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.20000000000192...
+Resultado: 2024-12-03 03:53:01
+Quantidade de Crash: 171
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 78
+Quantidade de Cinzas: 93
+Quantidade Acima/Igual a 10: 9
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.00000000000193...
+Resultado: 2024-12-03 03:54:07
+Quantidade de Crash: 172
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 79
+Quantidade de Cinzas: 93
+Quantidade Acima/Igual a 10: 10
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.80000000000194...
+Resultado: 2024-12-03 03:54:28
+Quantidade de Crash: 173
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 79
+Quantidade de Cinzas: 94
+Quantidade Acima/Igual a 10: 10
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.60000000000196...
+Resultado: 2024-12-03 03:55:30
+Quantidade de Crash: 174
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 80
+Quantidade de Cinzas: 94
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.40000000000197...
+Resultado: 2024-12-03 03:55:56
+Quantidade de Crash: 175
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 81
+Quantidade de Cinzas: 94
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.20000000000198...
+Resultado: 2024-12-03 03:56:13
+Quantidade de Crash: 176
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 81
+Quantidade de Cinzas: 95
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.000000000002...
+Resultado: 2024-12-03 03:56:30
+Quantidade de Crash: 177
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 81
+Quantidade de Cinzas: 96
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.800000000002...
+Resultado: 2024-12-03 03:56:46
+Quantidade de Crash: 178
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 81
+Quantidade de Cinzas: 97
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.600000000002...
+Resultado: 2024-12-03 03:57:03
+Quantidade de Crash: 179
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 81
+Quantidade de Cinzas: 98
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.40000000000202...
+Resultado: 2024-12-03 03:57:50
+Quantidade de Crash: 180
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 82
+Quantidade de Cinzas: 98
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.20000000000203...
+Resultado: 2024-12-03 03:58:10
+Quantidade de Crash: 181
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 82
+Quantidade de Cinzas: 99
+Quantidade Acima/Igual a 10: 11
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.00000000000205...
+Resultado: 2024-12-03 03:59:20
+Quantidade de Crash: 182
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 83
+Quantidade de Cinzas: 99
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.80000000000206...
+Resultado: 2024-12-03 03:59:51
+Quantidade de Crash: 183
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 84
+Quantidade de Cinzas: 99
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.60000000000207...
+Resultado: 2024-12-03 04:00:23
+Quantidade de Crash: 184
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 85
+Quantidade de Cinzas: 99
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.40000000000208...
+Resultado: 2024-12-03 04:00:37
+Quantidade de Crash: 185
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 85
+Quantidade de Cinzas: 100
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.2000000000021...
+Resultado: 2024-12-03 04:01:11
+Quantidade de Crash: 186
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 100
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.0000000000021...
+Resultado: 2024-12-03 04:01:27
+Quantidade de Crash: 187
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 101
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.80000000000211...
+Resultado: 2024-12-03 04:01:37
+Quantidade de Crash: 188
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 102
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.60000000000213...
+Resultado: 2024-12-03 04:01:47
+Quantidade de Crash: 189
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 103
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.40000000000214...
+Resultado: 2024-12-03 04:02:02
+Quantidade de Crash: 190
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 104
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.20000000000215...
+Resultado: 2024-12-03 04:02:13
+Quantidade de Crash: 191
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 105
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.00000000000216...
+Resultado: 2024-12-03 04:02:28
+Quantidade de Crash: 192
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 106
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.80000000000217...
+Resultado: 2024-12-03 04:02:46
+Quantidade de Crash: 193
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 107
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.60000000000218...
+Resultado: 2024-12-03 04:03:03
+Quantidade de Crash: 194
+Quantidade máxima de cinzas seguidos registrados: 6
+Quantidade de Verdes: 86
+Quantidade de Cinzas: 108
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.4000000000022...
+Resultado: 2024-12-03 04:03:45
+Quantidade de Crash: 195
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 87
+Quantidade de Cinzas: 108
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.2000000000022...
+Resultado: 2024-12-03 04:04:15
+Quantidade de Crash: 196
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 88
+Quantidade de Cinzas: 108
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.00000000000222...
+Resultado: 2024-12-03 04:04:27
+Quantidade de Crash: 197
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 88
+Quantidade de Cinzas: 109
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.80000000000223...
+Resultado: 2024-12-03 04:04:46
+Quantidade de Crash: 198
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 88
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.60000000000224...
+Resultado: 2024-12-03 04:05:11
+Quantidade de Crash: 199
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 89
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.40000000000225...
+Resultado: 2024-12-03 04:05:42
+Quantidade de Crash: 200
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 90
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.20000000000226...
+Resultado: 2024-12-03 04:06:11
+Quantidade de Crash: 201
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 91
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 12
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 184.00000000000227...
+Resultado: 2024-12-03 04:07:11
+Quantidade de Crash: 202
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 92
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 13
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 185.80000000000229...
+Resultado: 2024-12-03 04:08:02
+Quantidade de Crash: 203
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 93
+Quantidade de Cinzas: 110
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.6000000000023...
+Resultado: 2024-12-03 04:08:19
+Quantidade de Crash: 204
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 93
+Quantidade de Cinzas: 111
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.4000000000023...
+Resultado: 2024-12-03 04:08:59
+Quantidade de Crash: 205
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 111
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.20000000000232...
+Resultado: 2024-12-03 04:09:19
+Quantidade de Crash: 206
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 112
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.00000000000233...
+Resultado: 2024-12-03 04:09:40
+Quantidade de Crash: 207
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 113
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.80000000000234...
+Resultado: 2024-12-03 04:09:50
+Quantidade de Crash: 208
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 114
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.60000000000235...
+Resultado: 2024-12-03 04:10:10
+Quantidade de Crash: 209
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 115
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.40000000000236...
+Resultado: 2024-12-03 04:10:23
+Quantidade de Crash: 210
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 94
+Quantidade de Cinzas: 116
+Quantidade Acima/Igual a 10: 14
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.20000000000238...
+Resultado: 2024-12-03 04:11:24
+Quantidade de Crash: 211
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 95
+Quantidade de Cinzas: 116
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.0000000000024...
+Resultado: 2024-12-03 04:12:02
+Quantidade de Crash: 212
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 96
+Quantidade de Cinzas: 116
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.8000000000024...
+Resultado: 2024-12-03 04:12:34
+Quantidade de Crash: 213
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 97
+Quantidade de Cinzas: 116
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.6000000000024...
+Resultado: 2024-12-03 04:12:45
+Quantidade de Crash: 214
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 97
+Quantidade de Cinzas: 117
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.40000000000242...
+Resultado: 2024-12-03 04:13:02
+Quantidade de Crash: 215
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 97
+Quantidade de Cinzas: 118
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.20000000000243...
+Resultado: 2024-12-03 04:13:12
+Quantidade de Crash: 216
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 97
+Quantidade de Cinzas: 119
+Quantidade Acima/Igual a 10: 15
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.00000000000244...
+Resultado: 2024-12-03 04:14:16
+Quantidade de Crash: 217
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 98
+Quantidade de Cinzas: 119
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.80000000000246...
+Resultado: 2024-12-03 04:14:28
+Quantidade de Crash: 218
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 98
+Quantidade de Cinzas: 120
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.60000000000247...
+Resultado: 2024-12-03 04:14:53
+Quantidade de Crash: 219
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 99
+Quantidade de Cinzas: 120
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.40000000000248...
+Resultado: 2024-12-03 04:15:22
+Quantidade de Crash: 220
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 100
+Quantidade de Cinzas: 120
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.2000000000025...
+Resultado: 2024-12-03 04:15:37
+Quantidade de Crash: 221
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 100
+Quantidade de Cinzas: 121
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.0000000000025...
+Resultado: 2024-12-03 04:16:01
+Quantidade de Crash: 222
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 101
+Quantidade de Cinzas: 121
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.8000000000025...
+Resultado: 2024-12-03 04:16:21
+Quantidade de Crash: 223
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 101
+Quantidade de Cinzas: 122
+Quantidade Acima/Igual a 10: 16
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.60000000000252...
+Resultado: 2024-12-03 04:17:57
+Quantidade de Crash: 224
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 102
+Quantidade de Cinzas: 122
+Quantidade Acima/Igual a 10: 17
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000254...
+Resultado: 2024-12-03 04:18:17
+Quantidade de Crash: 225
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 102
+Quantidade de Cinzas: 123
+Quantidade Acima/Igual a 10: 17
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.20000000000255...
+Resultado: 2024-12-03 04:18:46
+Quantidade de Crash: 226
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 103
+Quantidade de Cinzas: 123
+Quantidade Acima/Igual a 10: 17
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.00000000000256...
+Resultado: 2024-12-03 04:19:05
+Quantidade de Crash: 227
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 103
+Quantidade de Cinzas: 124
+Quantidade Acima/Igual a 10: 17
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.80000000000257...
+Resultado: 2024-12-03 04:20:14
+Quantidade de Crash: 228
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 104
+Quantidade de Cinzas: 124
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.60000000000258...
+Resultado: 2024-12-03 04:20:37
+Quantidade de Crash: 229
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 105
+Quantidade de Cinzas: 124
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.4000000000026...
+Resultado: 2024-12-03 04:21:05
+Quantidade de Crash: 230
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 106
+Quantidade de Cinzas: 124
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.2000000000026...
+Resultado: 2024-12-03 04:21:16
+Quantidade de Crash: 231
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 106
+Quantidade de Cinzas: 125
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000261...
+Resultado: 2024-12-03 04:21:41
+Quantidade de Crash: 232
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 107
+Quantidade de Cinzas: 125
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.80000000000263...
+Resultado: 2024-12-03 04:22:21
+Quantidade de Crash: 233
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 108
+Quantidade de Cinzas: 125
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.60000000000264...
+Resultado: 2024-12-03 04:23:02
+Quantidade de Crash: 234
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 109
+Quantidade de Cinzas: 125
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000265...
+Resultado: 2024-12-03 04:23:12
+Quantidade de Crash: 235
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 109
+Quantidade de Cinzas: 126
+Quantidade Acima/Igual a 10: 18
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.20000000000266...
+Resultado: 2024-12-03 04:24:07
+Quantidade de Crash: 236
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 126
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.00000000000267...
+Resultado: 2024-12-03 04:24:27
+Quantidade de Crash: 237
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 127
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.80000000000268...
+Resultado: 2024-12-03 04:24:40
+Quantidade de Crash: 238
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 128
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.6000000000027...
+Resultado: 2024-12-03 04:24:59
+Quantidade de Crash: 239
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 129
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.4000000000027...
+Resultado: 2024-12-03 04:25:10
+Quantidade de Crash: 240
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 130
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.20000000000272...
+Resultado: 2024-12-03 04:25:30
+Quantidade de Crash: 241
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 110
+Quantidade de Cinzas: 131
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000273...
+Resultado: 2024-12-03 04:26:09
+Quantidade de Crash: 242
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 111
+Quantidade de Cinzas: 131
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.80000000000274...
+Resultado: 2024-12-03 04:26:22
+Quantidade de Crash: 243
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 111
+Quantidade de Cinzas: 132
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.60000000000275...
+Resultado: 2024-12-03 04:26:42
+Quantidade de Crash: 244
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 111
+Quantidade de Cinzas: 133
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000276...
+Resultado: 2024-12-03 04:26:53
+Quantidade de Crash: 245
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 111
+Quantidade de Cinzas: 134
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.20000000000277...
+Resultado: 2024-12-03 04:27:17
+Quantidade de Crash: 246
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 112
+Quantidade de Cinzas: 134
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.00000000000279...
+Resultado: 2024-12-03 04:27:39
+Quantidade de Crash: 247
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 112
+Quantidade de Cinzas: 135
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.8000000000028...
+Resultado: 2024-12-03 04:28:25
+Quantidade de Crash: 248
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 113
+Quantidade de Cinzas: 135
+Quantidade Acima/Igual a 10: 19
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.6000000000028...
+Resultado: 2024-12-03 04:29:16
+Quantidade de Crash: 249
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 113
+Quantidade de Cinzas: 136
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.40000000000282...
+Resultado: 2024-12-03 04:29:33
+Quantidade de Crash: 250
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 113
+Quantidade de Cinzas: 137
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.20000000000283...
+Resultado: 2024-12-03 04:30:00
+Quantidade de Crash: 251
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 114
+Quantidade de Cinzas: 137
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000284...
+Resultado: 2024-12-03 04:30:13
+Quantidade de Crash: 252
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 114
+Quantidade de Cinzas: 138
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.80000000000285...
+Resultado: 2024-12-03 04:30:33
+Quantidade de Crash: 253
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 114
+Quantidade de Cinzas: 139
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.60000000000286...
+Resultado: 2024-12-03 04:30:58
+Quantidade de Crash: 254
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 115
+Quantidade de Cinzas: 139
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000288...
+Resultado: 2024-12-03 04:31:27
+Quantidade de Crash: 255
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 116
+Quantidade de Cinzas: 139
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.2000000000029...
+Resultado: 2024-12-03 04:32:14
+Quantidade de Crash: 256
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 117
+Quantidade de Cinzas: 139
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.0000000000029...
+Resultado: 2024-12-03 04:32:27
+Quantidade de Crash: 257
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 117
+Quantidade de Cinzas: 140
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.8000000000029...
+Resultado: 2024-12-03 04:32:42
+Quantidade de Crash: 258
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 117
+Quantidade de Cinzas: 141
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.60000000000292...
+Resultado: 2024-12-03 04:32:59
+Quantidade de Crash: 259
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 117
+Quantidade de Cinzas: 142
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.40000000000293...
+Resultado: 2024-12-03 04:33:19
+Quantidade de Crash: 260
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 117
+Quantidade de Cinzas: 143
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.20000000000294...
+Resultado: 2024-12-03 04:33:42
+Quantidade de Crash: 261
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 118
+Quantidade de Cinzas: 143
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.00000000000296...
+Resultado: 2024-12-03 04:34:05
+Quantidade de Crash: 262
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 119
+Quantidade de Cinzas: 143
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.80000000000297...
+Resultado: 2024-12-03 04:34:51
+Quantidade de Crash: 263
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 120
+Quantidade de Cinzas: 143
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.60000000000298...
+Resultado: 2024-12-03 04:35:13
+Quantidade de Crash: 264
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 121
+Quantidade de Cinzas: 143
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.400000000003...
+Resultado: 2024-12-03 04:35:30
+Quantidade de Crash: 265
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 121
+Quantidade de Cinzas: 144
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.200000000003...
+Resultado: 2024-12-03 04:35:45
+Quantidade de Crash: 266
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 121
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 187.000000000003...
+Resultado: 2024-12-03 04:36:07
+Quantidade de Crash: 267
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 122
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 20
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 186.80000000000302...
+Resultado: 2024-12-03 04:36:56
+Quantidade de Crash: 268
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 123
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 21
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 188.60000000000304...
+Resultado: 2024-12-03 04:37:46
+Quantidade de Crash: 269
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 124
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 22
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.40000000000305...
+Resultado: 2024-12-03 04:39:04
+Quantidade de Crash: 270
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 125
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 23
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.20000000000306...
+Resultado: 2024-12-03 04:39:29
+Quantidade de Crash: 271
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 126
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 23
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.00000000000307...
+Resultado: 2024-12-03 04:40:16
+Quantidade de Crash: 272
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 127
+Quantidade de Cinzas: 145
+Quantidade Acima/Igual a 10: 23
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.80000000000308...
+Resultado: 2024-12-03 04:40:28
+Quantidade de Crash: 273
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 127
+Quantidade de Cinzas: 146
+Quantidade Acima/Igual a 10: 23
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.6000000000031...
+Resultado: 2024-12-03 04:40:53
+Quantidade de Crash: 274
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 128
+Quantidade de Cinzas: 146
+Quantidade Acima/Igual a 10: 23
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.4000000000031...
+Resultado: 2024-12-03 04:41:51
+Quantidade de Crash: 275
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 129
+Quantidade de Cinzas: 146
+Quantidade Acima/Igual a 10: 24
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.20000000000312...
+Resultado: 2024-12-03 04:42:07
+Quantidade de Crash: 276
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 129
+Quantidade de Cinzas: 147
+Quantidade Acima/Igual a 10: 24
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.00000000000313...
+Resultado: 2024-12-03 04:42:22
+Quantidade de Crash: 277
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 129
+Quantidade de Cinzas: 148
+Quantidade Acima/Igual a 10: 24
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.80000000000314...
+Resultado: 2024-12-03 04:43:29
+Quantidade de Crash: 278
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 130
+Quantidade de Cinzas: 148
+Quantidade Acima/Igual a 10: 25
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000315...
+Resultado: 2024-12-03 04:44:24
+Quantidade de Crash: 279
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 131
+Quantidade de Cinzas: 148
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.40000000000316...
+Resultado: 2024-12-03 04:44:40
+Quantidade de Crash: 280
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 131
+Quantidade de Cinzas: 149
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.20000000000317...
+Resultado: 2024-12-03 04:44:52
+Quantidade de Crash: 281
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 131
+Quantidade de Cinzas: 150
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.00000000000318...
+Resultado: 2024-12-03 04:45:04
+Quantidade de Crash: 282
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 131
+Quantidade de Cinzas: 151
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.8000000000032...
+Resultado: 2024-12-03 04:45:33
+Quantidade de Crash: 283
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 132
+Quantidade de Cinzas: 151
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.6000000000032...
+Resultado: 2024-12-03 04:45:59
+Quantidade de Crash: 284
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 133
+Quantidade de Cinzas: 151
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.40000000000322...
+Resultado: 2024-12-03 04:46:18
+Quantidade de Crash: 285
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 133
+Quantidade de Cinzas: 152
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000323...
+Resultado: 2024-12-03 04:46:28
+Quantidade de Crash: 286
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 133
+Quantidade de Cinzas: 153
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000324...
+Resultado: 2024-12-03 04:46:49
+Quantidade de Crash: 287
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 133
+Quantidade de Cinzas: 154
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000325...
+Resultado: 2024-12-03 04:47:12
+Quantidade de Crash: 288
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 134
+Quantidade de Cinzas: 154
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000326...
+Resultado: 2024-12-03 04:47:23
+Quantidade de Crash: 289
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 134
+Quantidade de Cinzas: 155
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000327...
+Resultado: 2024-12-03 04:47:40
+Quantidade de Crash: 290
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 134
+Quantidade de Cinzas: 156
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000329...
+Resultado: 2024-12-03 04:47:54
+Quantidade de Crash: 291
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 134
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.0000000000033...
+Resultado: 2024-12-03 04:48:24
+Quantidade de Crash: 292
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 135
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.8000000000033...
+Resultado: 2024-12-03 04:49:13
+Quantidade de Crash: 293
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 136
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 26
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000332...
+Resultado: 2024-12-03 04:50:47
+Quantidade de Crash: 294
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 137
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.40000000000333...
+Resultado: 2024-12-03 04:51:35
+Quantidade de Crash: 295
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 138
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000334...
+Resultado: 2024-12-03 04:52:00
+Quantidade de Crash: 296
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 139
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000335...
+Resultado: 2024-12-03 04:52:24
+Quantidade de Crash: 297
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 140
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000337...
+Resultado: 2024-12-03 04:53:00
+Quantidade de Crash: 298
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 141
+Quantidade de Cinzas: 157
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000338...
+Resultado: 2024-12-03 04:53:19
+Quantidade de Crash: 299
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 141
+Quantidade de Cinzas: 158
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.4000000000034...
+Resultado: 2024-12-03 04:53:51
+Quantidade de Crash: 300
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 142
+Quantidade de Cinzas: 158
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.2000000000034...
+Resultado: 2024-12-03 04:54:21
+Quantidade de Crash: 301
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 143
+Quantidade de Cinzas: 158
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.0000000000034...
+Resultado: 2024-12-03 04:54:44
+Quantidade de Crash: 302
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 144
+Quantidade de Cinzas: 158
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000342...
+Resultado: 2024-12-03 04:54:57
+Quantidade de Crash: 303
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 144
+Quantidade de Cinzas: 159
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000343...
+Resultado: 2024-12-03 04:55:31
+Quantidade de Crash: 304
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 145
+Quantidade de Cinzas: 159
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000344...
+Resultado: 2024-12-03 04:55:58
+Quantidade de Crash: 305
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 146
+Quantidade de Cinzas: 159
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.20000000000346...
+Resultado: 2024-12-03 04:56:34
+Quantidade de Crash: 306
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 147
+Quantidade de Cinzas: 159
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.00000000000347...
+Resultado: 2024-12-03 04:56:46
+Quantidade de Crash: 307
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 147
+Quantidade de Cinzas: 160
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.80000000000348...
+Resultado: 2024-12-03 04:56:56
+Quantidade de Crash: 308
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 147
+Quantidade de Cinzas: 161
+Quantidade Acima/Igual a 10: 27
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.6000000000035...
+Resultado: 2024-12-03 04:58:10
+Quantidade de Crash: 309
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 148
+Quantidade de Cinzas: 161
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.4000000000035...
+Resultado: 2024-12-03 04:58:23
+Quantidade de Crash: 310
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 148
+Quantidade de Cinzas: 162
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.2000000000035...
+Resultado: 2024-12-03 04:58:51
+Quantidade de Crash: 311
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 149
+Quantidade de Cinzas: 162
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.00000000000352...
+Resultado: 2024-12-03 04:59:01
+Quantidade de Crash: 312
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 149
+Quantidade de Cinzas: 163
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000354...
+Resultado: 2024-12-03 04:59:27
+Quantidade de Crash: 313
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 150
+Quantidade de Cinzas: 163
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000355...
+Resultado: 2024-12-03 05:00:02
+Quantidade de Crash: 314
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 151
+Quantidade de Cinzas: 163
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000356...
+Resultado: 2024-12-03 05:00:11
+Quantidade de Crash: 315
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 151
+Quantidade de Cinzas: 164
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.20000000000357...
+Resultado: 2024-12-03 05:00:53
+Quantidade de Crash: 316
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 152
+Quantidade de Cinzas: 164
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.00000000000358...
+Resultado: 2024-12-03 05:01:07
+Quantidade de Crash: 317
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 152
+Quantidade de Cinzas: 165
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.8000000000036...
+Resultado: 2024-12-03 05:01:38
+Quantidade de Crash: 318
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 153
+Quantidade de Cinzas: 165
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.6000000000036...
+Resultado: 2024-12-03 05:01:55
+Quantidade de Crash: 319
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 153
+Quantidade de Cinzas: 166
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.40000000000362...
+Resultado: 2024-12-03 05:02:05
+Quantidade de Crash: 320
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 153
+Quantidade de Cinzas: 167
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.20000000000363...
+Resultado: 2024-12-03 05:02:36
+Quantidade de Crash: 321
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 154
+Quantidade de Cinzas: 167
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.00000000000364...
+Resultado: 2024-12-03 05:03:00
+Quantidade de Crash: 322
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 155
+Quantidade de Cinzas: 167
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.80000000000365...
+Resultado: 2024-12-03 05:03:40
+Quantidade de Crash: 323
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 156
+Quantidade de Cinzas: 167
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.60000000000366...
+Resultado: 2024-12-03 05:04:10
+Quantidade de Crash: 324
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 157
+Quantidade de Cinzas: 167
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.40000000000367...
+Resultado: 2024-12-03 05:04:20
+Quantidade de Crash: 325
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 157
+Quantidade de Cinzas: 168
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.20000000000368...
+Resultado: 2024-12-03 05:04:48
+Quantidade de Crash: 326
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 158
+Quantidade de Cinzas: 168
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.0000000000037...
+Resultado: 2024-12-03 05:05:00
+Quantidade de Crash: 327
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 158
+Quantidade de Cinzas: 169
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.8000000000037...
+Resultado: 2024-12-03 05:05:43
+Quantidade de Crash: 328
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 159
+Quantidade de Cinzas: 169
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.60000000000372...
+Resultado: 2024-12-03 05:06:23
+Quantidade de Crash: 329
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 160
+Quantidade de Cinzas: 169
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.40000000000373...
+Resultado: 2024-12-03 05:07:04
+Quantidade de Crash: 330
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 161
+Quantidade de Cinzas: 169
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.20000000000374...
+Resultado: 2024-12-03 05:07:29
+Quantidade de Crash: 331
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 162
+Quantidade de Cinzas: 169
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000375...
+Resultado: 2024-12-03 05:07:42
+Quantidade de Crash: 332
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 162
+Quantidade de Cinzas: 170
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.80000000000376...
+Resultado: 2024-12-03 05:08:06
+Quantidade de Crash: 333
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 163
+Quantidade de Cinzas: 170
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.60000000000377...
+Resultado: 2024-12-03 05:08:18
+Quantidade de Crash: 334
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 163
+Quantidade de Cinzas: 171
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.40000000000379...
+Resultado: 2024-12-03 05:08:46
+Quantidade de Crash: 335
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 164
+Quantidade de Cinzas: 171
+Quantidade Acima/Igual a 10: 28
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 189.2000000000038...
+Resultado: 2024-12-03 05:09:40
+Quantidade de Crash: 336
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 165
+Quantidade de Cinzas: 171
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.0000000000038...
+Resultado: 2024-12-03 05:09:50
+Quantidade de Crash: 337
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 165
+Quantidade de Cinzas: 172
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.80000000000382...
+Resultado: 2024-12-03 05:10:24
+Quantidade de Crash: 338
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 166
+Quantidade de Cinzas: 172
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.60000000000383...
+Resultado: 2024-12-03 05:10:39
+Quantidade de Crash: 339
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 166
+Quantidade de Cinzas: 173
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.40000000000384...
+Resultado: 2024-12-03 05:10:49
+Quantidade de Crash: 340
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 166
+Quantidade de Cinzas: 174
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.20000000000385...
+Resultado: 2024-12-03 05:11:25
+Quantidade de Crash: 341
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 167
+Quantidade de Cinzas: 174
+Quantidade Acima/Igual a 10: 29
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.00000000000387...
+Resultado: 2024-12-03 05:12:48
+Quantidade de Crash: 342
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 168
+Quantidade de Cinzas: 174
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.80000000000388...
+Resultado: 2024-12-03 05:13:03
+Quantidade de Crash: 343
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 168
+Quantidade de Cinzas: 175
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.6000000000039...
+Resultado: 2024-12-03 05:13:51
+Quantidade de Crash: 344
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 169
+Quantidade de Cinzas: 175
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.4000000000039...
+Resultado: 2024-12-03 05:14:19
+Quantidade de Crash: 345
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 170
+Quantidade de Cinzas: 175
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.2000000000039...
+Resultado: 2024-12-03 05:14:37
+Quantidade de Crash: 346
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 170
+Quantidade de Cinzas: 176
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 191.00000000000392...
+Resultado: 2024-12-03 05:14:48
+Quantidade de Crash: 347
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 170
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.80000000000393...
+Resultado: 2024-12-03 05:15:11
+Quantidade de Crash: 348
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 171
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 30
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 190.60000000000394...
+Resultado: 2024-12-03 05:16:42
+Quantidade de Crash: 349
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 172
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 31
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 192.40000000000396...
+Resultado: 2024-12-03 05:18:17
+Quantidade de Crash: 350
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 173
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 32
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000397...
+Resultado: 2024-12-03 05:18:40
+Quantidade de Crash: 351
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 174
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 32
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.00000000000398...
+Resultado: 2024-12-03 05:19:39
+Quantidade de Crash: 352
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 175
+Quantidade de Cinzas: 177
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.800000000004...
+Resultado: 2024-12-03 05:19:50
+Quantidade de Crash: 353
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 175
+Quantidade de Cinzas: 178
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.600000000004...
+Resultado: 2024-12-03 05:20:09
+Quantidade de Crash: 354
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 175
+Quantidade de Cinzas: 179
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.400000000004...
+Resultado: 2024-12-03 05:20:26
+Quantidade de Crash: 355
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 175
+Quantidade de Cinzas: 180
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000402...
+Resultado: 2024-12-03 05:20:36
+Quantidade de Crash: 356
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 175
+Quantidade de Cinzas: 181
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000404...
+Resultado: 2024-12-03 05:21:01
+Quantidade de Crash: 357
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 176
+Quantidade de Cinzas: 181
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000405...
+Resultado: 2024-12-03 05:21:14
+Quantidade de Crash: 358
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 176
+Quantidade de Cinzas: 182
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000406...
+Resultado: 2024-12-03 05:21:44
+Quantidade de Crash: 359
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 177
+Quantidade de Cinzas: 182
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000407...
+Resultado: 2024-12-03 05:22:01
+Quantidade de Crash: 360
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 177
+Quantidade de Cinzas: 183
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000408...
+Resultado: 2024-12-03 05:22:34
+Quantidade de Crash: 361
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 178
+Quantidade de Cinzas: 183
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.0000000000041...
+Resultado: 2024-12-03 05:22:56
+Quantidade de Crash: 362
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 179
+Quantidade de Cinzas: 183
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.8000000000041...
+Resultado: 2024-12-03 05:23:08
+Quantidade de Crash: 363
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 179
+Quantidade de Cinzas: 184
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000412...
+Resultado: 2024-12-03 05:23:47
+Quantidade de Crash: 364
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 180
+Quantidade de Cinzas: 184
+Quantidade Acima/Igual a 10: 33
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000413...
+Resultado: 2024-12-03 05:24:50
+Quantidade de Crash: 365
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 181
+Quantidade de Cinzas: 184
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000414...
+Resultado: 2024-12-03 05:25:07
+Quantidade de Crash: 366
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 181
+Quantidade de Cinzas: 185
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000415...
+Resultado: 2024-12-03 05:25:21
+Quantidade de Crash: 367
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 181
+Quantidade de Cinzas: 186
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000416...
+Resultado: 2024-12-03 05:25:50
+Quantidade de Crash: 368
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 182
+Quantidade de Cinzas: 186
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000417...
+Resultado: 2024-12-03 05:26:06
+Quantidade de Crash: 369
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 182
+Quantidade de Cinzas: 187
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000418...
+Resultado: 2024-12-03 05:26:24
+Quantidade de Crash: 370
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 182
+Quantidade de Cinzas: 188
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.2000000000042...
+Resultado: 2024-12-03 05:26:48
+Quantidade de Crash: 371
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 183
+Quantidade de Cinzas: 188
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.0000000000042...
+Resultado: 2024-12-03 05:27:21
+Quantidade de Crash: 372
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 184
+Quantidade de Cinzas: 188
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000422...
+Resultado: 2024-12-03 05:28:01
+Quantidade de Crash: 373
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 185
+Quantidade de Cinzas: 188
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000423...
+Resultado: 2024-12-03 05:28:14
+Quantidade de Crash: 374
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 185
+Quantidade de Cinzas: 189
+Quantidade Acima/Igual a 10: 34
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000424...
+Resultado: 2024-12-03 05:29:24
+Quantidade de Crash: 375
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 186
+Quantidade de Cinzas: 189
+Quantidade Acima/Igual a 10: 35
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000425...
+Resultado: 2024-12-03 05:29:43
+Quantidade de Crash: 376
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 186
+Quantidade de Cinzas: 190
+Quantidade Acima/Igual a 10: 35
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000426...
+Resultado: 2024-12-03 05:30:00
+Quantidade de Crash: 377
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 186
+Quantidade de Cinzas: 191
+Quantidade Acima/Igual a 10: 35
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000427...
+Resultado: 2024-12-03 05:30:36
+Quantidade de Crash: 378
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 187
+Quantidade de Cinzas: 191
+Quantidade Acima/Igual a 10: 35
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.6000000000043...
+Resultado: 2024-12-03 05:31:00
+Quantidade de Crash: 379
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 188
+Quantidade de Cinzas: 191
+Quantidade Acima/Igual a 10: 35
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.4000000000043...
+Resultado: 2024-12-03 05:31:58
+Quantidade de Crash: 380
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 189
+Quantidade de Cinzas: 191
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.2000000000043...
+Resultado: 2024-12-03 05:32:12
+Quantidade de Crash: 381
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 189
+Quantidade de Cinzas: 192
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.00000000000432...
+Resultado: 2024-12-03 05:32:38
+Quantidade de Crash: 382
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 190
+Quantidade de Cinzas: 192
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.80000000000433...
+Resultado: 2024-12-03 05:33:17
+Quantidade de Crash: 383
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 191
+Quantidade de Cinzas: 192
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.60000000000434...
+Resultado: 2024-12-03 05:33:30
+Quantidade de Crash: 384
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 191
+Quantidade de Cinzas: 193
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.40000000000435...
+Resultado: 2024-12-03 05:33:46
+Quantidade de Crash: 385
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 191
+Quantidade de Cinzas: 194
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000437...
+Resultado: 2024-12-03 05:34:01
+Quantidade de Crash: 386
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 191
+Quantidade de Cinzas: 195
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000438...
+Resultado: 2024-12-03 05:34:12
+Quantidade de Crash: 387
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 191
+Quantidade de Cinzas: 196
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.8000000000044...
+Resultado: 2024-12-03 05:34:35
+Quantidade de Crash: 388
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 192
+Quantidade de Cinzas: 196
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.6000000000044...
+Resultado: 2024-12-03 05:34:54
+Quantidade de Crash: 389
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 192
+Quantidade de Cinzas: 197
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.4000000000044...
+Resultado: 2024-12-03 05:35:30
+Quantidade de Crash: 390
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 193
+Quantidade de Cinzas: 197
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000442...
+Resultado: 2024-12-03 05:35:56
+Quantidade de Crash: 391
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 194
+Quantidade de Cinzas: 197
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.00000000000443...
+Resultado: 2024-12-03 05:36:11
+Quantidade de Crash: 392
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 194
+Quantidade de Cinzas: 198
+Quantidade Acima/Igual a 10: 36
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000445...
+Resultado: 2024-12-03 05:37:05
+Quantidade de Crash: 393
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 195
+Quantidade de Cinzas: 198
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.60000000000446...
+Resultado: 2024-12-03 05:37:20
+Quantidade de Crash: 394
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 195
+Quantidade de Cinzas: 199
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.40000000000447...
+Resultado: 2024-12-03 05:37:54
+Quantidade de Crash: 395
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 196
+Quantidade de Cinzas: 199
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000448...
+Resultado: 2024-12-03 05:38:07
+Quantidade de Crash: 396
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 196
+Quantidade de Cinzas: 200
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.0000000000045...
+Resultado: 2024-12-03 05:38:19
+Quantidade de Crash: 397
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 196
+Quantidade de Cinzas: 201
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.8000000000045...
+Resultado: 2024-12-03 05:38:40
+Quantidade de Crash: 398
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 197
+Quantidade de Cinzas: 201
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.6000000000045...
+Resultado: 2024-12-03 05:39:00
+Quantidade de Crash: 399
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 197
+Quantidade de Cinzas: 202
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000452...
+Resultado: 2024-12-03 05:39:41
+Quantidade de Crash: 400
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 198
+Quantidade de Cinzas: 202
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000454...
+Resultado: 2024-12-03 05:40:08
+Quantidade de Crash: 401
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 199
+Quantidade de Cinzas: 202
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.00000000000455...
+Resultado: 2024-12-03 05:40:37
+Quantidade de Crash: 402
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 200
+Quantidade de Cinzas: 202
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000456...
+Resultado: 2024-12-03 05:40:48
+Quantidade de Crash: 403
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 200
+Quantidade de Cinzas: 203
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000457...
+Resultado: 2024-12-03 05:41:09
+Quantidade de Crash: 404
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 200
+Quantidade de Cinzas: 204
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.40000000000458...
+Resultado: 2024-12-03 05:41:34
+Quantidade de Crash: 405
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 201
+Quantidade de Cinzas: 204
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.2000000000046...
+Resultado: 2024-12-03 05:41:44
+Quantidade de Crash: 406
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 201
+Quantidade de Cinzas: 205
+Quantidade Acima/Igual a 10: 37
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.0000000000046...
+Resultado: 2024-12-03 05:42:41
+Quantidade de Crash: 407
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 202
+Quantidade de Cinzas: 205
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000462...
+Resultado: 2024-12-03 05:43:18
+Quantidade de Crash: 408
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 205
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.60000000000463...
+Resultado: 2024-12-03 05:43:39
+Quantidade de Crash: 409
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 206
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.40000000000464...
+Resultado: 2024-12-03 05:43:55
+Quantidade de Crash: 410
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 207
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.20000000000465...
+Resultado: 2024-12-03 05:44:12
+Quantidade de Crash: 411
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 208
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.00000000000466...
+Resultado: 2024-12-03 05:44:24
+Quantidade de Crash: 412
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 209
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.80000000000467...
+Resultado: 2024-12-03 05:44:40
+Quantidade de Crash: 413
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 203
+Quantidade de Cinzas: 210
+Quantidade Acima/Igual a 10: 38
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 193.60000000000468...
+Resultado: 2024-12-03 05:46:07
+Quantidade de Crash: 414
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 204
+Quantidade de Cinzas: 210
+Quantidade Acima/Igual a 10: 39
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.4000000000047...
+Resultado: 2024-12-03 05:46:17
+Quantidade de Crash: 415
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 204
+Quantidade de Cinzas: 211
+Quantidade Acima/Igual a 10: 39
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.2000000000047...
+Resultado: 2024-12-03 05:46:34
+Quantidade de Crash: 416
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 204
+Quantidade de Cinzas: 212
+Quantidade Acima/Igual a 10: 39
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000472...
+Resultado: 2024-12-03 05:46:52
+Quantidade de Crash: 417
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 204
+Quantidade de Cinzas: 213
+Quantidade Acima/Igual a 10: 39
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000473...
+Resultado: 2024-12-03 05:48:19
+Quantidade de Crash: 418
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 205
+Quantidade de Cinzas: 213
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.60000000000474...
+Resultado: 2024-12-03 05:48:30
+Quantidade de Crash: 419
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 205
+Quantidade de Cinzas: 214
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.40000000000475...
+Resultado: 2024-12-03 05:48:53
+Quantidade de Crash: 420
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 206
+Quantidade de Cinzas: 214
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.20000000000476...
+Resultado: 2024-12-03 05:49:24
+Quantidade de Crash: 421
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 207
+Quantidade de Cinzas: 214
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.00000000000477...
+Resultado: 2024-12-03 05:49:46
+Quantidade de Crash: 422
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 208
+Quantidade de Cinzas: 214
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.8000000000048...
+Resultado: 2024-12-03 05:50:04
+Quantidade de Crash: 423
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 208
+Quantidade de Cinzas: 215
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.6000000000048...
+Resultado: 2024-12-03 05:50:18
+Quantidade de Crash: 424
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 208
+Quantidade de Cinzas: 216
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.4000000000048...
+Resultado: 2024-12-03 05:50:43
+Quantidade de Crash: 425
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 209
+Quantidade de Cinzas: 216
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.20000000000482...
+Resultado: 2024-12-03 05:51:18
+Quantidade de Crash: 426
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 210
+Quantidade de Cinzas: 216
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 195.00000000000483...
+Resultado: 2024-12-03 05:51:28
+Quantidade de Crash: 427
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 210
+Quantidade de Cinzas: 217
+Quantidade Acima/Igual a 10: 40
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 194.80000000000484...
+Resultado: 2024-12-03 05:52:47
+Quantidade de Crash: 428
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 211
+Quantidade de Cinzas: 217
+Quantidade Acima/Igual a 10: 41
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 196.60000000000485...
+Resultado: 2024-12-03 10:50:54
+Quantidade de Crash: 429
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 212
+Quantidade de Cinzas: 217
+Quantidade Acima/Igual a 10: 42
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 198.40000000000487...
+Resultado: 2024-12-03 10:51:24
+Quantidade de Crash: 430
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 213
+Quantidade de Cinzas: 217
+Quantidade Acima/Igual a 10: 42
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 198.20000000000488...
+Resultado: 2024-12-03 10:51:34
+Quantidade de Crash: 431
+Quantidade máxima de cinzas seguidos registrados: 8
+Quantidade de Verdes: 213
+Quantidade de Cinzas: 218
+Quantidade Acima/Igual a 10: 42
+Quantidade máxima até chegar a 10: 53
+Banca Atual: 198.0000000000049...
